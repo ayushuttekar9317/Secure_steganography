@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Build/cache
+build/
+dist/
+*.egg-info/
+
+# Generated steganography files
+stego_output/
+output/
+
+# Environment/secrets
+.env
+*.key
+*.pem
